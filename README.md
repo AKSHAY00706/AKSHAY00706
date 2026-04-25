@@ -1,73 +1,34 @@
-<h1 align="center">Hi 👋 I'm Akshay Obulapuram</h1>
-<h3 align="center">Python Developer • Web Developer • Cybersecurity Builder • Problem Solver</h3>
+<h1 align="center">⚡ Akshay Obulapuram ⚡</h1>
+
+<h3 align="center">
+Python Developer • Cybersecurity Builder • Full Stack Learner • Future Software Engineer
+</h3>
 
 <p align="center">
-  <a href="https://akshay00706.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
-  </a>
-  
-  <a href="https://nulltrace-uorw.onrender.com/">
-    <img src="https://img.shields.io/badge/NullTrace-Live-success?style=for-the-badge">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00FF99&center=true&vCenter=true&width=950&lines=Building+Real+Projects;Creator+of+NullTrace;Python+%7C+Flask+%7C+JavaScript+%7C+SQL;Always+Learning+Always+Improving;Ready+for+Software+Engineering+Roles" />
+</p>
+
+<p align="center">
+<a href="https://akshay00706.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="https://nulltrace-uorw.onrender.com/">
+<img src="https://img.shields.io/badge/NullTrace-Live-success?style=for-the-badge&logo=render"/>
+</a>
+
+<a href="mailto:alphaaakshay@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-- 🎓 B.Tech CSE Graduate (2021–2025)
-- 💻 Skilled in Python, JavaScript, SQL, React, Django
-- 🔐 Built **NullTrace Threat Intelligence Platform**
-- 🌱 Passionate about learning modern technologies
-- 📍 Kavali, Nellore, India
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ NullTrace – Threat Intelligence Platform
-
-Live Demo:  
-https://nulltrace-uorw.onrender.com/
-
-Features:
-
-- IP Reputation Check
-- VirusTotal API
-- AbuseIPDB API
-- Bulk Excel Scan
-- Cyber UI Dashboard
-
----
-
-### 🌐 Portfolio Website
-
-https://akshay00706.github.io/
-
----
-
-## 📊 GitHub Stats
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSHAY00706&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAY00706&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-
-📧 alphaaakshay@gmail.com
-
----
-
-⭐ Building cool things one project at a time.
+```diff
++ B.Tech Computer Science Graduate
++ Strong in Python, JavaScript, SQL
++ Built real-world Threat Intelligence platform
++ Passionate about scalable software
++ Focused on learning, growth and execution
